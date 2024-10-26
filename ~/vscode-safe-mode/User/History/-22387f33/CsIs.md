@@ -1,4 +1,3 @@
-file:///home/maskura/python_django/home1_project/Hbaiust_1/README.md {"mtime":1729959095255,"ctime":1729959095255,"size":12,"etag":"3d8aaschac","orphaned":false,"typeId":""}
 # Hbaiust_1
 ## Date: 26/10/2024
 
