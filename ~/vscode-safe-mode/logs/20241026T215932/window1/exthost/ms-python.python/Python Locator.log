@@ -1,0 +1,18 @@
+2024-10-26 22:19:49.931 [info] Starting Python Locator /home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/python-env-tools/bin/pet server
+2024-10-26 22:19:50.485 [info] Discovered env: /home/maskura/python_django/home1_project/myenv/bin/python
+2024-10-26 22:19:50.487 [info] Discovered env: /usr/bin/python3
+2024-10-26 22:19:50.487 [info] Discovered env: /bin/python3
+2024-10-26 22:19:50.489 [info] Locator Conda took 545.915743ms
+2024-10-26 22:19:50.489 [info] Locator Homebrew took 4.362929ms
+2024-10-26 22:19:50.489 [info] Locator LinuxGlobal took 261.000785ms
+2024-10-26 22:19:50.490 [info] Locator PipEnv took 225.728µs
+2024-10-26 22:19:50.490 [info] Locator Poetry took 300.119µs
+2024-10-26 22:19:50.490 [info] Locator PyEnv took 448.599µs
+2024-10-26 22:19:50.490 [info] Locator Venv took 38.495µs
+2024-10-26 22:19:50.490 [info] Locator VirtualEnv took 99.413µs
+2024-10-26 22:19:50.490 [info] Locator VirtualEnvWrapper took 334.597µs
+2024-10-26 22:19:50.490 [info] Locator GlobalVirtualEnvs took 4.9337ms
+2024-10-26 22:19:50.490 [info] Locator Locators took 550.278417ms
+2024-10-26 22:19:50.490 [info] Locator Path took 419.112044ms
+2024-10-26 22:19:50.491 [info] Locator Workspaces took 2.743µs
+2024-10-26 22:19:50.496 [info] Refresh completed in 552ms
