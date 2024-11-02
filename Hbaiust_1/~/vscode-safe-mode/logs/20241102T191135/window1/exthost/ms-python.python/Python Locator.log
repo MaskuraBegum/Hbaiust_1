@@ -1,0 +1,18 @@
+2024-11-02 19:16:21.942 [info] Starting Python Locator /home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/python-env-tools/bin/pet server
+2024-11-02 19:16:25.122 [info] Discovered env: /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/myenv/bin/python
+2024-11-02 19:16:25.144 [info] Discovered env: /usr/bin/python3
+2024-11-02 19:16:25.149 [info] Discovered env: /bin/python3
+2024-11-02 19:16:25.172 [info] Locator Conda took 142.774387ms
+2024-11-02 19:16:25.172 [info] Locator Homebrew took 2.697915ms
+2024-11-02 19:16:25.172 [info] Locator LinuxGlobal took 276.764886ms
+2024-11-02 19:16:25.173 [info] Locator PipEnv took 55.665µs
+2024-11-02 19:16:25.173 [info] Locator Poetry took 221.677µs
+2024-11-02 19:16:25.175 [info] Locator PyEnv took 3.22015ms
+2024-11-02 19:16:25.178 [info] Locator Venv took 279.925µs
+2024-11-02 19:16:25.178 [info] Locator VirtualEnv took 79.866µs
+2024-11-02 19:16:25.178 [info] Locator VirtualEnvWrapper took 32.222µs
+2024-11-02 19:16:25.181 [info] Locator GlobalVirtualEnvs took 78.111µs
+2024-11-02 19:16:25.183 [info] Locator Locators took 286.853872ms
+2024-11-02 19:16:25.185 [info] Locator Path took 553.380051ms
+2024-11-02 19:16:25.185 [info] Locator Workspaces took 83.028589ms
+2024-11-02 19:16:25.188 [info] Refresh completed in 553ms

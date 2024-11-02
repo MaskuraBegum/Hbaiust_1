@@ -1,0 +1,5 @@
+file:///mnt/hdd/HDD%28lost%2Bfound%29/maskura/project/Hbaiust_1/app_F/views.py {"mtime":1730004902450,"ctime":1730004902450,"size":63,"etag":"3d8chli3n21","orphaned":false,"typeId":""}
+from django.shortcuts import render
+
+# Create your views here.
+from django.http import HTTPR

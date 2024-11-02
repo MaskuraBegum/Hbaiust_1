@@ -4,11 +4,10 @@
         "workspaces": {
             "file:///home/maskura/python_django/home1_project": "__default__profile__",
             "file:///home/maskura/python_django/home1_project/Hbaiust_1/Hbaiust_1": "__default__profile__",
-            "file:///home/maskura/python_django/home1_project/Hbaiust_1": "__default__profile__"
+            "file:///home/maskura/python_django/home1_project/Hbaiust_1": "__default__profile__",
+            "file:///mnt/hdd/HDD%28lost%2Bfound%29/maskura/project/Hbaiust_1": "__default__profile__"
         },
-        "emptyWindows": {
-            "1729958374467": "__default__profile__"
-        }
+        "emptyWindows": {}
     },
     "profileAssociationsMigration": true,
     "telemetry.sqmId": "",
@@ -17,20 +16,13 @@
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///home/maskura/python_django/home1_project"
-            },
-            {
-                "folderUri": "file:///home/maskura/python_django/home1_project/Hbaiust_1/Hbaiust_1"
-            },
-            {
                 "folderUri": "file:///home/maskura/python_django/home1_project/Hbaiust_1"
+            },
+            {
+                "folderUri": "file:///mnt/hdd/HDD%28lost%2Bfound%29/maskura/project/Hbaiust_1"
             }
         ],
-        "emptyWindows": [
-            {
-                "backupFolder": "1729958374467"
-            }
-        ]
+        "emptyWindows": []
     },
     "lastKnownMenubarData": {
         "menus": {
@@ -75,6 +67,17 @@
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///mnt/hdd/HDD%28lost%2Bfound%29/maskura/project/Hbaiust_1",
+                                        "path": "/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -154,8 +157,7 @@
                     },
                     {
                         "id": "saveAll",
-                        "label": "Save A&&ll",
-                        "enabled": false
+                        "label": "Save A&&ll"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -826,8 +828,7 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Word Wrap",
-                        "checked": true
+                        "label": "&&Word Wrap"
                     }
                 ]
             },
@@ -835,8 +836,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -1769,8 +1769,8 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/maskura/python_django/home1_project/Hbaiust_1",
-            "backupPath": "/home/maskura/python_django/home1_project/Hbaiust_1/~/vscode-safe-mode/Backups/a431682a22d17bb42b17a76a45343d34",
+            "folder": "file:///mnt/hdd/HDD%28lost%2Bfound%29/maskura/project/Hbaiust_1",
+            "backupPath": "/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/~/vscode-safe-mode/Backups/a7cfb0568025b8721f86dfc839cfb2d7",
             "uiState": {
                 "mode": 0,
                 "x": 171,

@@ -1,0 +1,153 @@
+2024-11-02 19:16:21.811 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-11-02 19:16:21.811 [info] Experiment 'pythonSurveyNotificationcf' is active
+2024-11-02 19:16:21.811 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-11-02 19:16:21.811 [info] Experiment 'pythonTestAdapter' is active
+2024-11-02 19:16:21.851 [warning] Dir "/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/.pixi/envs" is not watchable (directory does not exist)
+2024-11-02 19:16:22.102 [info] Default formatter is set to null for workspace /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1
+2024-11-02 19:16:22.165 [info] Starting Environment refresh
+2024-11-02 19:16:22.165 [info] Searching for interpreters in posix paths locator
+2024-11-02 19:16:22.202 [info] Searching for pyenv environments
+2024-11-02 19:16:22.202 [info] Searching for conda environments
+2024-11-02 19:16:22.208 [info] Searching for global virtual environments
+2024-11-02 19:16:22.208 [info] Searching for custom virtual environments
+2024-11-02 19:16:22.267 [info] VS Code was launched from an activated environment: 'myenv', selecting it as the interpreter for workspace.
+2024-11-02 19:16:22.299 [info] pyenv is not installed
+2024-11-02 19:16:22.299 [info] Finished searching for pyenv environments: 131 milliseconds
+2024-11-02 19:16:22.300 [info] Finished searching for custom virtual envs: 128 milliseconds
+2024-11-02 19:16:22.311 [info] > conda info --json
+2024-11-02 19:16:22.333 [info] > pixi --version
+2024-11-02 19:16:22.352 [info] > hatch env show --json
+2024-11-02 19:16:22.352 [info] cwd: .
+2024-11-02 19:16:22.397 [info] > pyenv which python
+2024-11-02 19:16:22.397 [info] cwd: .
+2024-11-02 19:16:22.398 [info] Finished searching for global virtual envs: 226 milliseconds
+2024-11-02 19:16:22.432 [info] Found: /bin/python3 --> /bin/python3.12
+2024-11-02 19:16:22.433 [info] Found: /bin/python3.12 --> /bin/python3.12
+2024-11-02 19:16:25.064 [info] Found: /usr/bin/python3 --> /usr/bin/python3.12
+2024-11-02 19:16:25.067 [info] Found: /usr/bin/python3.12 --> /usr/bin/python3.12
+2024-11-02 19:16:25.101 [info] > "./myenv/bin/python" -I ~/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/python_files/interpreterInfo.py
+2024-11-02 19:16:25.142 [info] Found: /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/myenv/bin/python --> /usr/bin/python3.12
+2024-11-02 19:16:25.143 [info] Found: /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/myenv/bin/python3 --> /usr/bin/python3.12
+2024-11-02 19:16:25.146 [info] Found: /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/myenv/bin/python3.12 --> /usr/bin/python3.12
+2024-11-02 19:16:25.169 [info] Finished searching for interpreters in posix paths locator: 3012 milliseconds
+2024-11-02 19:16:25.169 [info] > /bin/python3 -I ~/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/python_files/interpreterInfo.py
+2024-11-02 19:16:25.191 [info] Environments refresh paths discovered (event): 3042 milliseconds
+2024-11-02 19:16:25.191 [info] Environments refresh paths discovered: 3042 milliseconds
+2024-11-02 19:16:25.219 [info] > /usr/bin/python3 -I ~/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/python_files/interpreterInfo.py
+2024-11-02 19:16:25.227 [info] Python interpreter path: ./myenv/bin/python
+2024-11-02 19:16:25.283 [info] Environments refresh finished (event): 3134 milliseconds
+2024-11-02 19:16:25.298 [info] Environment refresh took 3156 milliseconds
+2024-11-02 19:16:25.303 [error] Failed to get conda envs from environments.txt [TypeError: e.splitLines is not a function
+	at /home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:604954
+	at async /home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:604904
+	at async Promise.all (index 2)
+	at async /home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:604625
+	at async x.sendTelemetryImpl (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:604016)]
+2024-11-02 19:16:27.096 [warning] could not find a pixi interpreter for the interpreter at /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/myenv/bin/python
+2024-11-02 19:16:27.126 [info] > . "./myenv/bin/activate" && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/python_files/printEnvVariables.py
+2024-11-02 19:16:27.126 [info] shell: bash
+2024-11-02 19:16:27.163 [info] > /bin/python3 ~/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/python_files/printEnvVariables.py
+2024-11-02 19:16:27.163 [info] shell: bash
+2024-11-02 19:16:27.210 [error] [
+  `Failed to start language server, Class name = h, completed in 597ms, has a falsy return value, Arg 1: <Uri:/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1>, Arg 2: {"id":"/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/myenv/bin/python","sysPrefix":"/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/myenv","envType":"Venv","envName":"myenv","envPath":"/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/myenv","path":"/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/myenv/bin/python","architecture":3,"sysVersion":"3.12.3 (main, Sep 11 2024, 14:17:37) [GCC 13.2.0]","version":{"raw":"3.12.3","major":3,"minor":12,"patch":3,"build":[],"prerelease":["final","0"]},"displayName":"Python 3.12.3 ('myenv')","detailedDisplayName":"Python 3.12.3 ('myenv': venv)","type":"Virtual"}, Arg 3: {"documentSelector":[{"scheme":"file","language":"python"},{"scheme":"untitled","language":"python"},{"scheme":"vscode-notebook","language":"python"},{"scheme":"vscode-notebook-cell","language":"python"},{"scheme":"vscode-interactive-input","language":"python"}],"synchronize":{"configurationSection":["python","jupyter.runStartupCommands"]},"outputChannel":{"name":"Python Language Server","logLevel":3},"revealOutputChannelOn":4,"initializationOptions":{"experimentationSupport":true,"trustedWorkspaceSupport":true},"middleware":{"serviceContainer":{"container":{"options":{"autoBindInjectable":false,"defaultScope":"Transient","skipBaseClassChecks":true},"id":0,"_bindingDictionary":{"_map":{}},"_snapshots":[],"_middleware":null,"_activations":{"_map":{}},"_deactivations":{"_map":{}},"parent":null,"_metadataReader":{},"_moduleActivationStore":{"_map":{}}}},"serverVersion":"2024.8.2","lastCaptured":{},"nextWindow":0,"eventCount":0,"workspace":{},"connectedPromise":{"scope":null,"_resolved":false,"_rejected":false,"_promise":{}},"notebooks":{},"eventName":"LANGUAGE_SERVER.REQUEST"}}, Return Value: undefined`,
+  [Error: The language client requires VS Code version ^1.91.0 but received version 1.89.1
+  	at P.checkVersion (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:2307252)
+  	at new P (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:2306957)
+  	at Object.createClient (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:52239)
+  	at _0x500d80 (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:214371)
+  	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+  	at async _0x5446db (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:218069)
+  	at async _0x1d21da._startClient (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:167360)
+  	at async _0x1d21da._createNewRequest (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:166885)
+  	at async _0x1d21da._enqueueRequestAndWaitForRun (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:166089)
+  	at async _0x1d21da.startClient (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:165605)
+  	at async h.start (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:39659)]
+]
+2024-11-02 19:16:27.211 [error] [
+  'Starting language server, Class name = d, completed in 599ms, has a falsy return value, , Return Value: undefined',
+  [Error: The language client requires VS Code version ^1.91.0 but received version 1.89.1
+  	at P.checkVersion (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:2307252)
+  	at new P (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:2306957)
+  	at Object.createClient (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:52239)
+  	at _0x500d80 (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:214371)
+  	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+  	at async _0x5446db (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:218069)
+  	at async _0x1d21da._startClient (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:167360)
+  	at async _0x1d21da._createNewRequest (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:166885)
+  	at async _0x1d21da._enqueueRequestAndWaitForRun (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:166089)
+  	at async _0x1d21da.startClient (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:165605)
+  	at async h.start (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:39659)]
+]
+2024-11-02 19:16:27.211 [error] [
+  `Failed to start language server, Class name = d, completed in 601ms, has a falsy return value, Arg 1: <Uri:/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1>, Arg 2: {"id":"/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/myenv/bin/python","sysPrefix":"/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/myenv","envType":"Venv","envName":"myenv","envPath":"/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/myenv","path":"/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/myenv/bin/python","architecture":3,"sysVersion":"3.12.3 (main, Sep 11 2024, 14:17:37) [GCC 13.2.0]","version":{"raw":"3.12.3","major":3,"minor":12,"patch":3,"build":[],"prerelease":["final","0"]},"displayName":"Python 3.12.3 ('myenv')","detailedDisplayName":"Python 3.12.3 ('myenv': venv)","type":"Virtual"}, Return Value: undefined`,
+  [Error: The language client requires VS Code version ^1.91.0 but received version 1.89.1
+  	at P.checkVersion (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:2307252)
+  	at new P (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:2306957)
+  	at Object.createClient (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:52239)
+  	at _0x500d80 (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:214371)
+  	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+  	at async _0x5446db (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:218069)
+  	at async _0x1d21da._startClient (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:167360)
+  	at async _0x1d21da._createNewRequest (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:166885)
+  	at async _0x1d21da._enqueueRequestAndWaitForRun (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:166089)
+  	at async _0x1d21da.startClient (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:165605)
+  	at async h.start (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:39659)]
+]
+2024-11-02 19:16:27.212 [error] [
+  'Failed to activate a workspace, Class name = v, completed in 5070ms, has a falsy return value, Arg 1: <Uri:/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1>, Arg 2: {"started":1730553381170}, Return Value: undefined',
+  [Error: The language client requires VS Code version ^1.91.0 but received version 1.89.1
+  	at P.checkVersion (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:2307252)
+  	at new P (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:2306957)
+  	at Object.createClient (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:52239)
+  	at _0x500d80 (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:214371)
+  	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+  	at async _0x5446db (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:218069)
+  	at async _0x1d21da._startClient (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:167360)
+  	at async _0x1d21da._createNewRequest (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:166885)
+  	at async _0x1d21da._enqueueRequestAndWaitForRun (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:166089)
+  	at async _0x1d21da.startClient (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:165605)
+  	at async h.start (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:39659)]
+]
+2024-11-02 19:16:27.212 [error] Failure during activation. [Error: The language client requires VS Code version ^1.91.0 but received version 1.89.1
+	at P.checkVersion (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:2307252)
+	at new P (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:2306957)
+	at Object.createClient (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:52239)
+	at _0x500d80 (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:214371)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async _0x5446db (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:218069)
+	at async _0x1d21da._startClient (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:167360)
+	at async _0x1d21da._createNewRequest (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:166885)
+	at async _0x1d21da._enqueueRequestAndWaitForRun (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:166089)
+	at async _0x1d21da.startClient (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:165605)
+	at async h.start (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:39659)]
+2024-11-02 19:16:27.212 [error] sendStartupTelemetry() failed. [Error: The language client requires VS Code version ^1.91.0 but received version 1.89.1
+	at P.checkVersion (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:2307252)
+	at new P (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:2306957)
+	at Object.createClient (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:52239)
+	at _0x500d80 (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:214371)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async _0x5446db (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:218069)
+	at async _0x1d21da._startClient (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:167360)
+	at async _0x1d21da._createNewRequest (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:166885)
+	at async _0x1d21da._enqueueRequestAndWaitForRun (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:166089)
+	at async _0x1d21da.startClient (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:165605)
+	at async h.start (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:39659)]
+2024-11-02 19:16:27.217 [info] Prepending environment variable PS1 in collection with (myenv)  {"applyAtShellIntegration":true,"applyAtProcessCreation":false}
+2024-11-02 19:16:27.217 [info] Prepending environment variable PATH in collection with /home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/python_files/deactivate/bash:/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/myenv/bin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-11-02 19:16:27.220 [info] Send text to terminal: /bin/python3 /home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/python_files/printEnvVariablesToFile.py /home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/python_files/deactivate/bash/envVars.txt
+2024-11-02 19:21:43.003 [info] Discover tests for workspace name: Hbaiust_1 - uri: /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/Hbaiust_1/settings.py
+2024-11-02 19:35:34.231 [info] Discover tests for workspace name: Hbaiust_1 - uri: /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_F/models.py
+2024-11-02 19:44:50.663 [info] Discover tests for workspace name: Hbaiust_1 - uri: /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_F/models.py
+2024-11-02 19:46:20.680 [info] Discover tests for workspace name: Hbaiust_1 - uri: /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_F/models.py
+2024-11-02 19:52:27.626 [info] Discover tests for workspace name: Hbaiust_1 - uri: /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_F/models.py
+2024-11-02 19:53:29.433 [info] Discover tests for workspace name: Hbaiust_1 - uri: /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/models.py
+2024-11-02 19:55:57.700 [info] Discover tests for workspace name: Hbaiust_1 - uri: /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_F/views/fun_views.py
+2024-11-02 20:09:49.626 [info] Discover tests for workspace name: Hbaiust_1 - uri: /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/Hbaiust_1/settings.py
+2024-11-02 20:09:56.240 [info] Discover tests for workspace name: Hbaiust_1 - uri: /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/views/fviews.py
+2024-11-02 20:13:44.205 [info] Discover tests for workspace name: undefined - uri: /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/Hbaiust_1/~/vscode-safe-mode/User/settings.json
+2024-11-02 20:22:47.907 [info] Discover tests for workspace name: Hbaiust_1 - uri: /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/Hbaiust_1/urls.py
+2024-11-02 20:28:31.231 [info] Discover tests for workspace name: Hbaiust_1 - uri: /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/urls.py
+2024-11-02 20:32:53.577 [info] Discover tests for workspace name: Hbaiust_1 - uri: /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/views/fviews.py
+2024-11-02 20:34:39.333 [info] Discover tests for workspace name: Hbaiust_1 - uri: /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/Hbaiust_1/urls.py
+2024-11-02 20:41:25.264 [info] Discover tests for workspace name: Hbaiust_1 - uri: /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/Hbaiust_1/urls.py
+2024-11-02 20:53:22.884 [info] Discover tests for workspace name: Hbaiust_1 - uri: /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/admin.py

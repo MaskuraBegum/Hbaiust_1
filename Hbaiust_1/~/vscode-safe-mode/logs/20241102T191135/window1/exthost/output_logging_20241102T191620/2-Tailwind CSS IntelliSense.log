@@ -1,0 +1,481 @@
+Locating server…
+Booting server...
+Setting up server…
+Listening for messages…
+Searching for Tailwind CSS projects in the workspace's folders.
+Checking if /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/myenv/lib64/python3.12/site-packages/django/contrib/admin/static/admin/css/nav_sidebar.css may be Tailwind-related…
+Checking if /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/myenv/lib64/python3.12/site-packages/django/contrib/admin/static/admin/css/responsive.css may be Tailwind-related…
+Checking if /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/myenv/lib64/python3.12/site-packages/django/contrib/admin/static/admin/css/login.css may be Tailwind-related…
+Checking if /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/myenv/lib64/python3.12/site-packages/django/contrib/admin/static/admin/css/base.css may be Tailwind-related…
+Checking if /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/myenv/lib64/python3.12/site-packages/django/contrib/admin/static/admin/css/dark_mode.css may be Tailwind-related…
+Checking if /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/myenv/lib64/python3.12/site-packages/django/contrib/admin/static/admin/css/changelists.css may be Tailwind-related…
+Checking if /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/myenv/lib64/python3.12/site-packages/django/contrib/admin/static/admin/css/widgets.css may be Tailwind-related…
+Checking if /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/myenv/lib64/python3.12/site-packages/django/contrib/admin/static/admin/css/forms.css may be Tailwind-related…
+Checking if /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/myenv/lib64/python3.12/site-packages/django/contrib/admin/static/admin/css/unusable_password_field.css may be Tailwind-related…
+Checking if /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/myenv/lib64/python3.12/site-packages/django/contrib/admin/static/admin/css/autocomplete.css may be Tailwind-related…
+Checking if /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/myenv/lib64/python3.12/site-packages/django/contrib/admin/static/admin/css/dashboard.css may be Tailwind-related…
+Checking if /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/myenv/lib64/python3.12/site-packages/django/contrib/admin/static/admin/css/rtl.css may be Tailwind-related…
+Checking if /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/myenv/lib64/python3.12/site-packages/django/contrib/admin/static/admin/css/vendor/select2/select2.min.css may be Tailwind-related…
+Checking if /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/myenv/lib64/python3.12/site-packages/django/contrib/admin/static/admin/css/vendor/select2/select2.css may be Tailwind-related…
+Checking if /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/myenv/lib64/python3.12/site-packages/django/contrib/admin/static/admin/css/responsive_rtl.css may be Tailwind-related…
+Checking if /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/myenv/lib64/python3.12/site-packages/django/contrib/gis/static/gis/css/ol3.css may be Tailwind-related…
+Checking if /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/myenv/lib/python3.12/site-packages/django/contrib/admin/static/admin/css/nav_sidebar.css may be Tailwind-related…
+Checking if /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/myenv/lib/python3.12/site-packages/django/contrib/admin/static/admin/css/responsive.css may be Tailwind-related…
+Checking if /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/myenv/lib/python3.12/site-packages/django/contrib/admin/static/admin/css/login.css may be Tailwind-related…
+Checking if /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/myenv/lib/python3.12/site-packages/django/contrib/admin/static/admin/css/base.css may be Tailwind-related…
+Checking if /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/myenv/lib/python3.12/site-packages/django/contrib/admin/static/admin/css/dark_mode.css may be Tailwind-related…
+Checking if /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/myenv/lib/python3.12/site-packages/django/contrib/admin/static/admin/css/changelists.css may be Tailwind-related…
+Checking if /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/myenv/lib/python3.12/site-packages/django/contrib/admin/static/admin/css/widgets.css may be Tailwind-related…
+Checking if /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/myenv/lib/python3.12/site-packages/django/contrib/admin/static/admin/css/forms.css may be Tailwind-related…
+Checking if /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/myenv/lib/python3.12/site-packages/django/contrib/admin/static/admin/css/unusable_password_field.css may be Tailwind-related…
+Checking if /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/myenv/lib/python3.12/site-packages/django/contrib/admin/static/admin/css/autocomplete.css may be Tailwind-related…
+Checking if /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/myenv/lib/python3.12/site-packages/django/contrib/admin/static/admin/css/dashboard.css may be Tailwind-related…
+Checking if /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/myenv/lib/python3.12/site-packages/django/contrib/admin/static/admin/css/vendor/select2/select2.min.css may be Tailwind-related…
+Checking if /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/myenv/lib/python3.12/site-packages/django/contrib/admin/static/admin/css/vendor/select2/select2.css may be Tailwind-related…
+Checking if /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/myenv/lib/python3.12/site-packages/django/contrib/admin/static/admin/css/rtl.css may be Tailwind-related…
+Checking if /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/myenv/lib/python3.12/site-packages/django/contrib/admin/static/admin/css/responsive_rtl.css may be Tailwind-related…
+Checking if /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/myenv/lib/python3.12/site-packages/django/contrib/gis/static/gis/css/ol3.css may be Tailwind-related…
+[Global] Creating projects: []
+[Global] Preparing projects...
+[Global] Initializing projects...
+[Global] Initialized 0 projects
+[Info  - 7:23:23 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_F/models.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_F/models.py'
+}
+[Info  - 7:36:26 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_F/views.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_F/views.py'
+}
+[Info  - 7:36:38 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_F/url.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_F/url.py'
+}
+[Info  - 7:37:00 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_F/urls.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_F/urls.py'
+}
+[Info  - 7:37:12 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_F/views.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_F/views.py'
+}
+[Info  - 7:37:28 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_F/urls.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_F/urls.py'
+}
+[Info  - 7:38:09 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_F/views/fun_views.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_F/views/fun_views.py'
+}
+[Info  - 7:44:33 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_F/models.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_F/models.py'
+}
+[Info  - 7:44:37 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_F/views/fun_views.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_F/views/fun_views.py'
+}
+[Info  - 7:44:43 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_F/models.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_F/models.py'
+}
+[Info  - 7:44:51 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_F/views/fun_views.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_F/views/fun_views.py'
+}
+[Info  - 7:46:10 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_F/models.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_F/models.py'
+}
+[Info  - 7:46:20 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_F/views/fun_views.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_F/views/fun_views.py'
+}
+[Info  - 7:48:37 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_F/urls.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_F/urls.py'
+}
+[Info  - 7:48:43 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_F/models.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_F/models.py'
+}
+[Info  - 7:52:31 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/models.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/models.py'
+}
+[Info  - 7:53:41 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/urls.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/urls.py'
+}
+[Info  - 7:54:06 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/models.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/models.py'
+}
+[Info  - 7:54:10 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/views.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/views.py'
+}
+[Info  - 7:54:14 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/models.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/models.py'
+}
+[Info  - 7:54:52 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/views/fviews.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/views/fviews.py'
+}
+[Info  - 7:55:36 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_F/views/fun_views.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_F/views/fun_views.py'
+}
+[Info  - 7:55:57 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/views/fviews.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/views/fviews.py'
+}
+[Info  - 7:57:12 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/models.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/models.py'
+}
+[Info  - 7:57:16 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/views/fviews.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/views/fviews.py'
+}
+[Info  - 8:03:49 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/views/fviews.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/views/fviews.py'
+}
+[Info  - 8:04:30 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/models.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/models.py'
+}
+[Info  - 8:04:33 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/views/fviews.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/views/fviews.py'
+}
+[Info  - 8:07:58 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:07:58 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:07:59 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:08:00 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:08:01 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:08:02 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:08:02 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:08:04 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:08:04 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:08:05 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:08:06 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:08:06 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:08:07 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:08:57 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:08:58 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:08:59 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:08:59 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:09:32 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/Hbaiust_1/settings.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/Hbaiust_1/settings.py'
+}
+[Info  - 8:09:51 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/views/fviews.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/views/fviews.py'
+}
+[Info  - 8:09:57 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:09:59 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:10:00 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:10:01 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:10:02 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:14:40 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:14:47 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:14:47 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:14:49 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:14:49 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:14:51 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:14:52 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:17:35 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:17:36 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:17:37 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:17:40 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:17:41 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:17:41 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:17:41 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:17:41 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:17:42 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:17:43 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:17:43 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:17:43 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:17:44 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:19:10 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:19:11 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:19:11 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:19:12 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:19:47 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/Hbaiust_1/urls.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/Hbaiust_1/urls.py'
+}
+[Info  - 8:23:30 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/urls.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/urls.py'
+}
+[Info  - 8:24:03 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/views/fviews.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/views/fviews.py'
+}
+[Info  - 8:24:09 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/urls.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/urls.py'
+}
+[Info  - 8:28:34 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/cover.html'
+}
+[Info  - 8:28:38 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/views/fviews.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/views/fviews.py'
+}
+[Info  - 8:30:34 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/covers/cover_page.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/covers/cover_page.html'
+}
+[Info  - 8:30:34 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/covers/cover_page.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/covers/cover_page.html'
+}
+[Info  - 8:30:34 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/covers/cover_page.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/covers/cover_page.html'
+}
+[Info  - 8:30:36 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/covers/cover_page.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/covers/cover_page.html'
+}
+[Info  - 8:30:39 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/covers/cover_page.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/covers/cover_page.html'
+}
+[Info  - 8:30:47 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/covers/cover_page.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/covers/cover_page.html'
+}
+[Info  - 8:30:48 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/covers/cover_page.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/covers/cover_page.html'
+}
+[Info  - 8:30:49 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/covers/cover_page.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/covers/cover_page.html'
+}
+[Info  - 8:30:49 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/covers/cover_page.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/covers/cover_page.html'
+}
+[Info  - 8:30:50 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/covers/cover_page.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/covers/cover_page.html'
+}
+[Info  - 8:30:52 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/covers/cover_page.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/covers/cover_page.html'
+}
+[Info  - 8:30:53 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/covers/cover_page.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/covers/cover_page.html'
+}
+[Info  - 8:30:54 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/covers/cover_page.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/covers/cover_page.html'
+}
+[Info  - 8:30:54 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/covers/cover_page.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/covers/cover_page.html'
+}
+[Info  - 8:30:54 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/covers/cover_page.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/covers/cover_page.html'
+}
+[Info  - 8:30:55 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/covers/cover_page.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/covers/cover_page.html'
+}
+[Info  - 8:30:56 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/covers/cover_page.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/covers/cover_page.html'
+}
+[Info  - 8:30:57 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/covers/cover_page.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/covers/cover_page.html'
+}
+[Info  - 8:30:57 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/covers/cover_page.html',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/templates/covers/cover_page.html'
+}
+[Info  - 8:31:00 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/views/fviews.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/views/fviews.py'
+}
+[Info  - 8:34:25 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/Hbaiust_1/urls.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/Hbaiust_1/urls.py'
+}
+[Info  - 8:39:21 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/urls.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/urls.py'
+}
+[Info  - 8:41:18 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/Hbaiust_1/urls.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/Hbaiust_1/urls.py'
+}
+[Info  - 8:48:58 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/__init__.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/__init__.py'
+}
+[Info  - 8:50:42 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/admin.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/admin.py'
+}
+[Info  - 8:51:54 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/models.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/models.py'
+}
+[Info  - 8:51:58 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/admin.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/admin.py'
+}
+[Info  - 8:58:51 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/views/fviews.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_secondF/views/fviews.py'
+}

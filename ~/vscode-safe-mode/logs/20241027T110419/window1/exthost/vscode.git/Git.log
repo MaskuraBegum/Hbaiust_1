@@ -1,0 +1,295 @@
+2024-10-27 11:04:23.363 [info] Log level: Info
+2024-10-27 11:04:23.363 [info] Validating found git in: "git"
+2024-10-27 11:04:23.363 [info] Using git "2.43.0" from "git"
+2024-10-27 11:04:23.363 [info] > git rev-parse --show-toplevel [13ms]
+2024-10-27 11:04:23.363 [info] > git rev-parse --git-dir --git-common-dir [23ms]
+2024-10-27 11:04:23.363 [info] Open repository: /home/maskura/python_django/home1_project/Hbaiust_1
+2024-10-27 11:04:23.368 [info] > git rev-parse --show-toplevel [29ms]
+2024-10-27 11:04:23.372 [info] > git config --get commit.template [39ms]
+2024-10-27 11:04:23.399 [info] > git rev-parse --show-toplevel [16ms]
+2024-10-27 11:04:23.411 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [20ms]
+2024-10-27 11:04:23.429 [info] > git rev-parse --show-toplevel [21ms]
+2024-10-27 11:04:23.483 [info] > git status -z -uall [33ms]
+2024-10-27 11:04:23.527 [info] > git merge-base refs/heads/main refs/remotes/origin/main [31ms]
+2024-10-27 11:04:23.545 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [7ms]
+2024-10-27 11:04:23.565 [info] > git config --get commit.template [38ms]
+2024-10-27 11:04:23.582 [info] > git diff --name-status -z --diff-filter=ADMR fa1b4c9d5a1212179302cdec4e0e6d26c43c487a...refs/remotes/origin/main [18ms]
+2024-10-27 11:04:23.661 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [79ms]
+2024-10-27 11:04:23.762 [info] > git status -z -uall [58ms]
+2024-10-27 11:04:23.820 [info] > git check-ignore -v -z --stdin [9ms]
+2024-10-27 11:04:25.438 [info] > git show --textconv :README.md [8ms]
+2024-10-27 11:04:25.458 [info] > git ls-files --stage -- /home/maskura/python_django/home1_project/Hbaiust_1/README.md [21ms]
+2024-10-27 11:04:25.468 [info] > git cat-file -s 72dde18eb3d65b9ec76bed59e5c35ec86bd8833a [3ms]
+2024-10-27 11:04:30.430 [info] Log level: Info
+2024-10-27 11:04:30.430 [info] Validating found git in: "git"
+2024-10-27 11:04:30.430 [info] Using git "2.43.0" from "git"
+2024-10-27 11:04:30.430 [info] > git rev-parse --show-toplevel [26ms]
+2024-10-27 11:04:30.558 [info] > git rev-parse --git-dir --git-common-dir [110ms]
+2024-10-27 11:04:30.607 [info] Open repository: /home/maskura/python_django/home1_project/Hbaiust_1
+2024-10-27 11:04:30.795 [info] > git rev-parse --show-toplevel [27ms]
+2024-10-27 11:04:30.800 [info] > git config --get commit.template [42ms]
+2024-10-27 11:04:30.838 [info] > git rev-parse --show-toplevel [18ms]
+2024-10-27 11:04:30.857 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [26ms]
+2024-10-27 11:04:30.861 [info] > git rev-parse --show-toplevel [4ms]
+2024-10-27 11:04:30.954 [info] > git status -z -uall [60ms]
+2024-10-27 11:04:31.010 [info] > git merge-base refs/heads/main refs/remotes/origin/main [37ms]
+2024-10-27 11:04:31.029 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [5ms]
+2024-10-27 11:04:31.041 [info] > git config --get commit.template [31ms]
+2024-10-27 11:04:31.051 [info] > git diff --name-status -z --diff-filter=ADMR fa1b4c9d5a1212179302cdec4e0e6d26c43c487a...refs/remotes/origin/main [11ms]
+2024-10-27 11:04:31.134 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [62ms]
+2024-10-27 11:04:31.221 [info] > git status -z -uall [51ms]
+2024-10-27 11:04:31.348 [info] > git check-ignore -v -z --stdin [42ms]
+2024-10-27 11:04:32.743 [info] > git show --textconv :README.md [33ms]
+2024-10-27 11:04:32.744 [info] > git ls-files --stage -- /home/maskura/python_django/home1_project/Hbaiust_1/README.md [8ms]
+2024-10-27 11:04:32.783 [info] > git cat-file -s 72dde18eb3d65b9ec76bed59e5c35ec86bd8833a [24ms]
+2024-10-27 11:04:52.380 [info] Log level: Info
+2024-10-27 11:04:52.380 [info] Validating found git in: "git"
+2024-10-27 11:04:52.380 [info] Using git "2.43.0" from "git"
+2024-10-27 11:04:52.380 [info] > git rev-parse --show-toplevel [12ms]
+2024-10-27 11:04:52.386 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2024-10-27 11:04:52.404 [info] Open repository: /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1
+2024-10-27 11:04:52.429 [info] > git rev-parse --show-toplevel [8ms]
+2024-10-27 11:04:52.430 [info] > git config --get commit.template [14ms]
+2024-10-27 11:04:52.442 [info] > git rev-parse --show-toplevel [7ms]
+2024-10-27 11:04:52.446 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2024-10-27 11:04:52.451 [warning] ENOENT: no such file or directory, open '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/.git/refs/remotes/origin/main'
+2024-10-27 11:04:52.451 [info] > git rev-parse --show-toplevel [6ms]
+2024-10-27 11:04:52.456 [info] > git rev-parse refs/remotes/origin/main [6ms]
+2024-10-27 11:04:52.463 [info] > git rev-parse --show-toplevel [8ms]
+2024-10-27 11:04:52.707 [info] > git status -z -uall [246ms]
+2024-10-27 11:04:53.682 [info] > git check-ignore -v -z --stdin [12ms]
+2024-10-27 11:04:53.685 [info] > git merge-base refs/heads/main refs/remotes/origin/main [914ms]
+2024-10-27 11:04:53.699 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [7ms]
+2024-10-27 11:04:53.707 [info] > git config --get commit.template [25ms]
+2024-10-27 11:04:53.717 [info] > git diff --name-status -z --diff-filter=ADMR fa1b4c9d5a1212179302cdec4e0e6d26c43c487a...refs/remotes/origin/main [12ms]
+2024-10-27 11:04:53.726 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-10-27 11:04:53.737 [warning] ENOENT: no such file or directory, open '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/.git/refs/remotes/origin/main'
+2024-10-27 11:04:53.738 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-10-27 11:04:54.012 [info] > git status -z -uall [269ms]
+2024-10-27 11:04:57.608 [info] Log level: Info
+2024-10-27 11:04:57.608 [info] Validating found git in: "git"
+2024-10-27 11:04:57.608 [info] Using git "2.43.0" from "git"
+2024-10-27 11:04:57.608 [info] > git rev-parse --show-toplevel [158ms]
+2024-10-27 11:04:57.636 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2024-10-27 11:04:57.682 [info] Open repository: /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1
+2024-10-27 11:04:57.721 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-27 11:04:57.723 [info] > git config --get commit.template [17ms]
+2024-10-27 11:04:57.756 [info] > git rev-parse --show-toplevel [22ms]
+2024-10-27 11:04:57.774 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [21ms]
+2024-10-27 11:04:57.823 [warning] ENOENT: no such file or directory, open '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/.git/refs/remotes/origin/main'
+2024-10-27 11:04:57.823 [info] > git rev-parse --show-toplevel [53ms]
+2024-10-27 11:04:57.871 [info] > git rev-parse refs/remotes/origin/main [49ms]
+2024-10-27 11:04:57.903 [info] > git rev-parse --show-toplevel [32ms]
+2024-10-27 11:04:58.796 [info] > git status -z -uall [907ms]
+2024-10-27 11:04:58.797 [info] > git check-ignore -v -z --stdin [35ms]
+2024-10-27 11:05:00.598 [info] > git merge-base refs/heads/main refs/remotes/origin/main [1654ms]
+2024-10-27 11:05:00.631 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [22ms]
+2024-10-27 11:05:00.650 [info] > git config --get commit.template [54ms]
+2024-10-27 11:05:00.685 [info] > git diff --name-status -z --diff-filter=ADMR fa1b4c9d5a1212179302cdec4e0e6d26c43c487a...refs/remotes/origin/main [36ms]
+2024-10-27 11:05:00.712 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2024-10-27 11:05:00.721 [warning] ENOENT: no such file or directory, open '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/.git/refs/remotes/origin/main'
+2024-10-27 11:05:00.725 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2024-10-27 11:05:01.148 [info] > git status -z -uall [415ms]
+2024-10-27 11:05:03.505 [info] > git config --get commit.template [9ms]
+2024-10-27 11:05:03.507 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-10-27 11:05:03.515 [warning] ENOENT: no such file or directory, open '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/.git/refs/remotes/origin/main'
+2024-10-27 11:05:03.517 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-10-27 11:05:03.748 [info] > git status -z -uall [223ms]
+2024-10-27 11:05:08.998 [info] > git config --get commit.template [9ms]
+2024-10-27 11:05:08.999 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-10-27 11:05:09.005 [warning] ENOENT: no such file or directory, open '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/.git/refs/remotes/origin/main'
+2024-10-27 11:05:09.007 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-10-27 11:05:09.233 [info] > git status -z -uall [220ms]
+2024-10-27 11:05:14.456 [info] > git config --get commit.template [9ms]
+2024-10-27 11:05:14.459 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-10-27 11:05:14.466 [warning] ENOENT: no such file or directory, open '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/.git/refs/remotes/origin/main'
+2024-10-27 11:05:14.469 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2024-10-27 11:05:14.696 [info] > git status -z -uall [219ms]
+2024-10-27 11:05:19.923 [info] > git config --get commit.template [9ms]
+2024-10-27 11:05:19.925 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-10-27 11:05:19.931 [warning] ENOENT: no such file or directory, open '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/.git/refs/remotes/origin/main'
+2024-10-27 11:05:19.933 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2024-10-27 11:05:20.157 [info] > git status -z -uall [218ms]
+2024-10-27 11:05:25.354 [info] > git config --get commit.template [10ms]
+2024-10-27 11:05:25.357 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-10-27 11:05:25.365 [warning] ENOENT: no such file or directory, open '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/.git/refs/remotes/origin/main'
+2024-10-27 11:05:25.368 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-10-27 11:05:25.593 [info] > git status -z -uall [217ms]
+2024-10-27 11:05:30.801 [info] > git config --get commit.template [9ms]
+2024-10-27 11:05:30.803 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-10-27 11:05:30.811 [warning] ENOENT: no such file or directory, open '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/.git/refs/remotes/origin/main'
+2024-10-27 11:05:30.813 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-10-27 11:05:31.036 [info] > git status -z -uall [217ms]
+2024-10-27 11:05:36.244 [info] > git config --get commit.template [8ms]
+2024-10-27 11:05:36.246 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-10-27 11:05:36.251 [warning] ENOENT: no such file or directory, open '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/.git/refs/remotes/origin/main'
+2024-10-27 11:05:36.253 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2024-10-27 11:05:36.478 [info] > git status -z -uall [218ms]
+2024-10-27 11:05:41.680 [info] > git config --get commit.template [10ms]
+2024-10-27 11:05:41.682 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-10-27 11:05:41.690 [warning] ENOENT: no such file or directory, open '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/.git/refs/remotes/origin/main'
+2024-10-27 11:05:41.692 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-10-27 11:05:41.916 [info] > git status -z -uall [218ms]
+2024-10-27 11:05:52.417 [info] > git config --get commit.template [7ms]
+2024-10-27 11:05:52.419 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-10-27 11:05:52.425 [warning] ENOENT: no such file or directory, open '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/.git/refs/remotes/origin/main'
+2024-10-27 11:05:52.427 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-10-27 11:05:52.655 [info] > git status -z -uall [224ms]
+2024-10-27 11:05:57.849 [info] > git config --get commit.template [10ms]
+2024-10-27 11:05:57.851 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-10-27 11:05:57.858 [warning] ENOENT: no such file or directory, open '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/.git/refs/remotes/origin/main'
+2024-10-27 11:05:57.860 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-10-27 11:05:58.095 [info] > git status -z -uall [228ms]
+2024-10-27 11:06:03.306 [info] > git config --get commit.template [8ms]
+2024-10-27 11:06:03.308 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-10-27 11:06:03.314 [warning] ENOENT: no such file or directory, open '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/.git/refs/remotes/origin/main'
+2024-10-27 11:06:03.316 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-10-27 11:06:03.550 [info] > git status -z -uall [228ms]
+2024-10-27 11:06:08.743 [info] > git config --get commit.template [9ms]
+2024-10-27 11:06:08.744 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-10-27 11:06:08.750 [warning] ENOENT: no such file or directory, open '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/.git/refs/remotes/origin/main'
+2024-10-27 11:06:08.752 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-10-27 11:06:08.976 [info] > git status -z -uall [215ms]
+2024-10-27 11:06:14.187 [info] > git config --get commit.template [7ms]
+2024-10-27 11:06:14.188 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-10-27 11:06:14.193 [warning] ENOENT: no such file or directory, open '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/.git/refs/remotes/origin/main'
+2024-10-27 11:06:14.195 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-10-27 11:06:14.425 [info] > git status -z -uall [225ms]
+2024-10-27 11:06:19.627 [info] > git config --get commit.template [9ms]
+2024-10-27 11:06:19.629 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-10-27 11:06:19.637 [warning] ENOENT: no such file or directory, open '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/.git/refs/remotes/origin/main'
+2024-10-27 11:06:19.639 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-10-27 11:06:19.865 [info] > git status -z -uall [217ms]
+2024-10-27 11:06:25.070 [info] > git config --get commit.template [10ms]
+2024-10-27 11:06:25.072 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-10-27 11:06:25.080 [warning] ENOENT: no such file or directory, open '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/.git/refs/remotes/origin/main'
+2024-10-27 11:06:25.083 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-10-27 11:06:25.315 [info] > git status -z -uall [224ms]
+2024-10-27 11:06:30.562 [info] > git config --get commit.template [9ms]
+2024-10-27 11:06:30.564 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-10-27 11:06:30.572 [warning] ENOENT: no such file or directory, open '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/.git/refs/remotes/origin/main'
+2024-10-27 11:06:30.575 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2024-10-27 11:06:30.800 [info] > git status -z -uall [217ms]
+2024-10-27 11:06:35.976 [info] > git config --get commit.template [9ms]
+2024-10-27 11:06:35.978 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-10-27 11:06:35.987 [warning] ENOENT: no such file or directory, open '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/.git/refs/remotes/origin/main'
+2024-10-27 11:06:35.989 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2024-10-27 11:06:36.216 [info] > git status -z -uall [219ms]
+2024-10-27 11:06:41.422 [info] > git config --get commit.template [9ms]
+2024-10-27 11:06:41.424 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-10-27 11:06:41.429 [warning] ENOENT: no such file or directory, open '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/.git/refs/remotes/origin/main'
+2024-10-27 11:06:41.431 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-10-27 11:06:41.670 [info] > git status -z -uall [233ms]
+2024-10-27 11:06:46.875 [info] > git config --get commit.template [9ms]
+2024-10-27 11:06:46.877 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-10-27 11:06:46.885 [warning] ENOENT: no such file or directory, open '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/.git/refs/remotes/origin/main'
+2024-10-27 11:06:46.887 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-10-27 11:06:47.113 [info] > git status -z -uall [218ms]
+2024-10-27 11:06:52.331 [info] > git config --get commit.template [8ms]
+2024-10-27 11:06:52.332 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-10-27 11:06:52.337 [warning] ENOENT: no such file or directory, open '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/.git/refs/remotes/origin/main'
+2024-10-27 11:06:52.339 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-10-27 11:06:52.570 [info] > git status -z -uall [226ms]
+2024-10-27 11:06:57.776 [info] > git config --get commit.template [8ms]
+2024-10-27 11:06:57.778 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-10-27 11:06:57.785 [warning] ENOENT: no such file or directory, open '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/.git/refs/remotes/origin/main'
+2024-10-27 11:06:57.788 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2024-10-27 11:06:58.016 [info] > git status -z -uall [221ms]
+2024-10-27 11:07:03.231 [info] > git config --get commit.template [11ms]
+2024-10-27 11:07:03.233 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2024-10-27 11:07:03.242 [warning] ENOENT: no such file or directory, open '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/.git/refs/remotes/origin/main'
+2024-10-27 11:07:03.244 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-10-27 11:07:03.468 [info] > git status -z -uall [217ms]
+2024-10-27 11:07:08.674 [info] > git config --get commit.template [10ms]
+2024-10-27 11:07:08.676 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-10-27 11:07:08.686 [warning] ENOENT: no such file or directory, open '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/.git/refs/remotes/origin/main'
+2024-10-27 11:07:08.688 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-10-27 11:07:08.942 [info] > git status -z -uall [248ms]
+2024-10-27 11:07:19.883 [info] > git config --get commit.template [11ms]
+2024-10-27 11:07:19.888 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2024-10-27 11:07:19.896 [warning] ENOENT: no such file or directory, open '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/.git/refs/remotes/origin/main'
+2024-10-27 11:07:19.898 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-10-27 11:07:20.171 [info] > git status -z -uall [266ms]
+2024-10-27 11:07:25.358 [info] > git config --get commit.template [9ms]
+2024-10-27 11:07:25.360 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-10-27 11:07:25.366 [warning] ENOENT: no such file or directory, open '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/.git/refs/remotes/origin/main'
+2024-10-27 11:07:25.368 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-10-27 11:07:25.599 [info] > git status -z -uall [225ms]
+2024-10-27 11:07:30.794 [info] > git config --get commit.template [11ms]
+2024-10-27 11:07:30.796 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-10-27 11:07:30.805 [warning] ENOENT: no such file or directory, open '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/.git/refs/remotes/origin/main'
+2024-10-27 11:07:30.807 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-10-27 11:07:31.034 [info] > git status -z -uall [219ms]
+2024-10-27 11:07:36.244 [info] > git config --get commit.template [7ms]
+2024-10-27 11:07:36.246 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-10-27 11:07:36.251 [warning] ENOENT: no such file or directory, open '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/.git/refs/remotes/origin/main'
+2024-10-27 11:07:36.253 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-10-27 11:07:36.489 [info] > git status -z -uall [230ms]
+2024-10-27 11:07:41.687 [info] > git config --get commit.template [7ms]
+2024-10-27 11:07:41.689 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-10-27 11:07:41.695 [warning] ENOENT: no such file or directory, open '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/.git/refs/remotes/origin/main'
+2024-10-27 11:07:41.697 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-10-27 11:07:41.955 [info] > git status -z -uall [252ms]
+2024-10-27 11:07:47.126 [info] > git config --get commit.template [9ms]
+2024-10-27 11:07:47.127 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-10-27 11:07:47.133 [warning] ENOENT: no such file or directory, open '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/.git/refs/remotes/origin/main'
+2024-10-27 11:07:47.134 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-10-27 11:07:47.365 [info] > git status -z -uall [225ms]
+2024-10-29 22:03:30.141 [info] > git config --get commit.template [9ms]
+2024-10-29 22:03:30.142 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-10-29 22:03:30.149 [warning] ENOENT: no such file or directory, open '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/.git/refs/remotes/origin/main'
+2024-10-29 22:03:30.151 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-10-29 22:03:30.410 [info] > git status -z -uall [253ms]
+2024-10-29 22:03:33.425 [info] > git check-ignore -v -z --stdin [2ms]
+2024-10-29 22:03:35.666 [info] > git config --get commit.template [11ms]
+2024-10-29 22:03:35.668 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-10-29 22:03:35.677 [warning] ENOENT: no such file or directory, open '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/.git/refs/remotes/origin/main'
+2024-10-29 22:03:35.679 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-10-29 22:03:35.915 [info] > git status -z -uall [230ms]
+2024-10-29 22:03:39.849 [info] > git show --textconv :app_F/views.py [40ms]
+2024-10-29 22:03:39.849 [info] > git ls-files --stage -- /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_F/views.py [13ms]
+2024-10-29 22:03:39.892 [info] > git cat-file -s 91ea44a218fbd2f408430959283f0419c921093e [33ms]
+2024-10-29 22:03:41.081 [info] > git config --get commit.template [8ms]
+2024-10-29 22:03:41.082 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-10-29 22:03:41.088 [warning] ENOENT: no such file or directory, open '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/.git/refs/remotes/origin/main'
+2024-10-29 22:03:41.090 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-10-29 22:03:41.324 [info] > git status -z -uall [228ms]
+2024-10-29 22:04:38.813 [info] > git check-ignore -v -z --stdin [2ms]
+2024-10-29 22:04:41.649 [info] > git check-ignore -v -z --stdin [3ms]
+2024-10-29 22:04:58.873 [info] > git check-ignore -v -z --stdin [2ms]
+2024-10-29 22:05:02.432 [info] > git show --textconv :Hbaiust_1/urls.py [8ms]
+2024-10-29 22:05:02.434 [info] > git ls-files --stage -- /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/Hbaiust_1/urls.py [3ms]
+2024-10-29 22:05:02.446 [info] > git cat-file -s 8106248efc00d9490590a462fa4555c7bab8565a [4ms]
+2024-10-29 22:06:47.717 [info] > git config --get commit.template [11ms]
+2024-10-29 22:06:47.719 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-10-29 22:06:47.725 [warning] ENOENT: no such file or directory, open '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/.git/refs/remotes/origin/main'
+2024-10-29 22:06:47.727 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-10-29 22:06:48.008 [info] > git status -z -uall [273ms]
+2024-10-29 22:06:53.266 [info] > git config --get commit.template [9ms]
+2024-10-29 22:06:53.268 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-10-29 22:06:53.274 [warning] ENOENT: no such file or directory, open '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/.git/refs/remotes/origin/main'
+2024-10-29 22:06:53.275 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-10-29 22:06:53.531 [info] > git status -z -uall [250ms]
+2024-10-29 22:06:54.916 [info] > git show --textconv :app_F/views.py [10ms]
+2024-10-29 22:06:54.918 [info] > git ls-files --stage -- /mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/app_F/views.py [3ms]
+2024-10-29 22:06:54.926 [info] > git cat-file -s 91ea44a218fbd2f408430959283f0419c921093e [3ms]
+2024-10-29 22:08:26.807 [info] > git config --get commit.template [3ms]
+2024-10-29 22:08:26.819 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-10-29 22:08:26.829 [warning] ENOENT: no such file or directory, open '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/.git/refs/remotes/origin/main'
+2024-10-29 22:08:26.831 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-10-29 22:08:27.102 [info] > git status -z -uall [264ms]
+2024-10-29 22:08:32.344 [info] > git config --get commit.template [8ms]
+2024-10-29 22:08:32.346 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-10-29 22:08:32.351 [warning] ENOENT: no such file or directory, open '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/.git/refs/remotes/origin/main'
+2024-10-29 22:08:32.353 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-10-29 22:08:32.605 [info] > git status -z -uall [247ms]
+2024-10-29 22:08:37.799 [info] > git config --get commit.template [10ms]
+2024-10-29 22:08:37.801 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-10-29 22:08:37.808 [warning] ENOENT: no such file or directory, open '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/.git/refs/remotes/origin/main'
+2024-10-29 22:08:37.810 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-10-29 22:08:38.046 [info] > git status -z -uall [228ms]
+2024-10-29 22:08:43.295 [info] > git config --get commit.template [10ms]
+2024-10-29 22:08:43.297 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-10-29 22:08:43.305 [warning] ENOENT: no such file or directory, open '/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/.git/refs/remotes/origin/main'
+2024-10-29 22:08:43.307 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-10-29 22:08:43.551 [info] > git status -z -uall [238ms]

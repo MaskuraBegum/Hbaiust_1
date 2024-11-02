@@ -1,0 +1,12 @@
+2024-11-02 19:11:35.782 [info] update#setState idle
+2024-11-02 19:11:58.402 [info] Extension host with pid 5077 exited with code: 0, signal: unknown.
+2024-11-02 19:12:05.719 [info] update#setState checking for updates
+2024-11-02 19:12:05.727 [info] update#setState available for download
+2024-11-02 19:13:23.245 [info] Extension host with pid 5149 exited with code: 0, signal: unknown.
+2024-11-02 19:14:01.632 [info] Extension host with pid 5295 exited with code: 0, signal: unknown.
+2024-11-02 19:14:04.252 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2024-11-02 19:16:12.536 [info] Extension host with pid 5347 exited with code: 0, signal: unknown.
+2024-11-02 19:16:18.858 [info] Extension host with pid 5512 exited with code: 0, signal: unknown.
+2024-11-02 19:24:43.068 [info] update#setState idle
+2024-11-02 20:12:05.723 [info] update#setState checking for updates
+2024-11-02 20:12:06.111 [info] update#setState available for download
