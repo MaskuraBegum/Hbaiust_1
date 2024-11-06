@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Student List - {% if view %}Class-Based View{% else %}Function-Based View{% endif %}</h1>
+<div class="student-list">
+    {% for coverpage in CoverPage %}
+    <div class="student-card">
+        <img src="{% static 'images/student_logo.png' %}" alt="Student Logo">
+        <h2>{{ coverpage.uniName }}</h2>
+        <p>ID: {{ coverpage.sname }}</p>
+        <p>Department: {{ coverpage.sid}}</p>
+        <p>Session: {{ coverpage.session }}</p>
+        <p>Course: {{ coverpage.coruse_code}}</p>
+    </div>
+    {% endfor %}
+</div>
+
+</body>
+</html>

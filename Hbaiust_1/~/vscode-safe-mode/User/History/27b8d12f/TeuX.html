@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>{% if view %}Class-Based View{% else %}Function-Based View{% endif %}</h1>
+    <div class="student-list">
+        
+        {% for coverpage in covers %}
+        <div style="background-color: #fff; width: 300px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); overflow: hidden; text-align: center;">
+            <div style="" class="student-card">
+                <img src="https://i.ibb.co.com/QrpBVj2/cropped-Untitled-design.png" />
+                <h2>{{ Coverpage.uniName }}</h2>
+                <p>ID: {{ coverpage.sname }}</p>
+                <p>Department: {{ coverpage.sid}}</p>
+                <p>Session: {{ coverpage.session }}</p>
+                <p>course_code:{{coverpage.coruse_code}}</P>
+            
+        </div>
+        </div>
+    {% endfor %}
+</div>
+
+</body>
+</html>

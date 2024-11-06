@@ -810,7 +810,8 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Word Wrap"
+                        "label": "&&Word Wrap",
+                        "checked": true
                     }
                 ]
             },
@@ -1755,9 +1756,9 @@
             "backupPath": "/mnt/hdd/HDD(lost+found)/maskura/project/Hbaiust_1/Hbaiust_1/~/vscode-safe-mode/Backups/a7cfb0568025b8721f86dfc839cfb2d7",
             "uiState": {
                 "mode": 0,
-                "x": 171,
+                "x": 0,
                 "y": 69,
-                "width": 1023,
+                "width": 1366,
                 "height": 699
             }
         },
