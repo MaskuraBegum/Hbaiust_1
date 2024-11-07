@@ -5,19 +5,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
-<body>
+<body >
     <h1>{% if view %}Class-Based View{% else %}Function-Based View{% endif %}</h1>
-    <div class="student-list">
+    <div class="student-list" style="margin:35px; display:flex; flex-warp:warp; gap:50px">
         
         {% for coverpage in covers %}
-        <div style="background-color: #fff; width: 300px; border-radius: 12px; box-shadow: 0 8px 8px rgba(0, 0, 0, 0.1); overflow: hidden; text-align: center; padding:20px">
+        <div style="background-color: #fff; width: 300px; border-radius: 10px; box-shadow: 4px 4px 8px 8px rgba(0, 0, 0, 0.1); overflow: hidden; text-align: center; padding:28px; padding-top: 45px; padding-bottom:45px">
             <div style="" class="student-card">
                 <div ><img src="https://i.ibb.co.com/QrpBVj2/cropped-Untitled-design.png" style="max-width:100px; max-higth:100px;"/></div>
                 <p>{{ coverpage.uniName }}</p>
-                <p>Name: {{ coverpage.sname }}</p>
-                <p>Id: {{ coverpage.sid}}</p>
-                <p>Session: {{ coverpage.session }}</p>
-                <p>course_code:{{coverpage.coruse_code}}</P>
+                <p><strong>Name: </strong>{{ coverpage.sname }}</p>
+                <p><strong>Id: </strong>{{ coverpage.sid}}</p>
+                <p><strong>Session: </strong>{{ coverpage.session }}</p>
+                <p><strong>course_code:</strong>{{coverpage.coruse_code}}</P>
             
         </div>
         </div>
