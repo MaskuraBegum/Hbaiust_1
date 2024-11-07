@@ -1,7 +1,7 @@
 # Hbaiust_1
 ## Class Date: 02/11/2024
 ### Lerning:
-- **Views:** Define functions in views.py to handle specific requests.
+- **Views:** Define functions and class in views.py to handle specific requests.
 - **URL Patterns:** Use urls.py to map URLs to views for routing.
 - **Rendering Templates:** Link views to HTML templates for dynamic content.
 - **URL Inclusion:** Connect app URLs to the main project URL configuration.
