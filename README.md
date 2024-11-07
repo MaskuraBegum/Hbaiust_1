@@ -4,7 +4,7 @@
 - **Views:** Define functions in views.py to handle specific requests.
 - **URL Patterns:** Use urls.py to map URLs to views for routing.
 - **Rendering Templates:** Link views to HTML templates for dynamic content.
--**URL Inclusion:** Connect app URLs to the main project URL configuration.
+- **URL Inclusion:** Connect app URLs to the main project URL configuration.
 - **Testing:** Run python manage.py runserver to test URLs and views in the browser.
 
 ## Class Date: 26/10/2024
